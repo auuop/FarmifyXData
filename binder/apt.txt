@@ -1,4 +1,4 @@
 chromium-browser
-tor
 rclone
 sudo
+vim
