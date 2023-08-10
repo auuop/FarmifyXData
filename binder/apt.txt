@@ -2,3 +2,4 @@ chromium-browser
 rclone
 sudo
 vim
+doas
