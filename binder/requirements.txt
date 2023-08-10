@@ -2,3 +2,4 @@ Selenium
 helium
 pysocks
 httpx
+chromedriver-autoinstaller
